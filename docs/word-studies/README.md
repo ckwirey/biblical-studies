@@ -10,5 +10,11 @@ Each entry focuses on:
 - Theological implications
 
 ## Greek
-
 - [λόγος](greek/logos.md)
+- [πίστις](greek/pistis.md)
+
+## Hebrew
+- [בראשית](hebrew/bereshith.md)
+
+## Aramaic
+- [אבא](aramaic/abba.md)
