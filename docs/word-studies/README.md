@@ -14,7 +14,7 @@ Each entry focuses on:
 - [Pistis - πίστις](greek/pistis.md)
 
 ## Hebrew
-- [בראשית - bereshith](hebrew/bereshith.md)
+- [בראשית - Bereshith](hebrew/bereshith.md)
 
 ## Aramaic
-- [אבא - abba](aramaic/abba.md)
+- [אבא - Abba](aramaic/abba.md)
