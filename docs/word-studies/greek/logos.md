@@ -4,7 +4,7 @@
 **λόγος** — Transliterated as *logos*. Commonly translated as "word," "reason," or "principle."
 
 ## Key Verse
-- [John 1:1](https://biblehub.com/interlinear/john/1-1.htm)
+- [John 1:1](https://biblehub.com/interlinear/john/1-1.htm) - "In the beginning was the Word, and the Word was with God, and the Word was God." (NASB)
 
 ## Lexical Meaning
 - Classical Greek: a reasoned statement, speech, or principle
