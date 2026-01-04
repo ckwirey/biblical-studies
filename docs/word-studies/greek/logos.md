@@ -22,7 +22,7 @@
 - Central to understanding Christology in Johannine thought
 
 ## References
-- Strong’s G3056: λόγος
+- [Strong’s G3056: λόγος](https://biblehub.com/greek/3056.htm)
 - Liddell-Scott-Jones Greek-English Lexicon
 - John 1:1–18
 - Early Church Fathers’ commentary (e.g., Justin Martyr, Irenaeus)
