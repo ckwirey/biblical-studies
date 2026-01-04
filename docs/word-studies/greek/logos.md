@@ -40,7 +40,7 @@ This is why “logic” derives from λόγος — not because λόγος *mean
 - Pattern that *is*, independent of human recognition  
 
 > “Although this Logos is eternally valid, yet men are unable to
-understand it…” ([Heraclitus Fr. 1, The Fragments by Heraclitus, pg.6](https://dn721607.ca.archive.org/0/items/tradition-books/Heraclitus%20-%20Fragments.pdf)  
+understand it…” ([Heraclitus Fragment 1, The Fragments by Heraclitus, pg.6](https://dn721607.ca.archive.org/0/items/tradition-books/Heraclitus%20-%20Fragments.pdf))
 
 - Logos is objective, universal, and not invented by humans
 
